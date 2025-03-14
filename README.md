@@ -29,3 +29,7 @@ Suma: a + b
 Resta: a - b
 Multiplicación: a * b
 División: a / b
+
+👤 Autor
+
+Desarrollado por Tu Yahir Alejandro Navarro Amador.
