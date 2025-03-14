@@ -13,7 +13,7 @@ Un programa simple de calculadora que permite realizar operaciones matemáticas 
 
 📦 Instalación
 Clona el repositorio:
-git clone [https://github.com/tu-usuario/calculadora.git](https://github.com/YahirNavarro/Programa-de-calculadora/blob/main/calculadora.py) 
+git clone https://github.com/YahirNavarro/Programa-de-calculadora/blob/main/calculadora.py
 Entra en el directorio del proyecto:
 cd calculadora
 
